@@ -20,8 +20,4 @@ Email: zhengrh@mail.bnu.edu.cn
   
   volume={20},
   
-  number={},
-  
-  pages={1-5},
-  
   doi={10.1109/LGRS.2023.3236691}}
